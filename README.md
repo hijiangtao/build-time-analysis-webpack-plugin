@@ -12,6 +12,11 @@ A webpack plugin that output the build time file by file as a JSON format with f
 
 [![NPM](https://nodei.co/npm/build-time-analysis-webpack-plugin.png)](https://nodei.co/npm/build-time-analysis-webpack-plugin/)
 
+## How to write a webpack plugin (Chinese)
+
+* Blog <https://hijiangtao.github.io/2019/12/01/Introduction-of-webpack-plugin/>
+* Zhihu <https://zhuanlan.zhihu.com/p/94577244>
+
 ## USAGE
 
 Install the plugin via `npm` or `yarn`:
