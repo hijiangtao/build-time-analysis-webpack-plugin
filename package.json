@@ -1,0 +1,28 @@
+{
+  "name": "build-time-analysis-webpack-plugin",
+  "version": "1.0.0",
+  "description": "A webpack plugin that output the build time file by file as a JSON format with filters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hijiangtao/build-time-analysis-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "build",
+    "analysis",
+    "time",
+    "spend",
+    "module"
+  ],
+  "author": "hijiangtao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hijiangtao/build-time-analysis-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/hijiangtao/build-time-analysis-webpack-plugin#readme"
+}
